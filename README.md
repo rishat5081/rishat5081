@@ -54,11 +54,9 @@ Together, let's sculpt the digital realm with innovation, efficiency, and precis
 - ⚡ Fun fact: I keep night shift swithed on at all times   
 
 
-</td><td valign="top" width="50%">
+</td>
 
-
-
-</td></tr></table>  
+</tr></table>  
 
 <br/>  
 
