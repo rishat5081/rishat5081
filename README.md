@@ -1,32 +1,39 @@
-## Hey 👋, I'm Rishav Anand!  
+## Hey 👋, I'm Saad Sohail!  
   
 
-<a href="https://github.com/rishavanand" target="_blank">
+<a href="https://github.com/rishat5081" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://twitter.com/iamrishavanand" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://dev.to/rishavanand" target="_blank">
-<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/iamrishavanand" target="_blank">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/saad-sohail-aa135b172/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.facebook.com/iamrishavanand" target="_blank">
+<a href="https://www.facebook.com/https://www.facebook.com/rishat.5081" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/iamrishavanand" target="_blank">
+<a href="https://instagram.com/https://www.instagram.com/sohail_s_97/" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>
+<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/10967697/engineer-s-saad" target="_blank">
+<img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
 </a>  
   
 
 
 
 ### Glad to see you here!  
-I’m a full-stack developer who has turned years of freelancing into a full-time career. Being a full-stack allows me to not only develop client-facing apps and websites but also develop it with cutting edge backend support.
+🚀 Hello there! I am a passionate and experienced Software Engineer with a strong command of JavaScript at the core of my coding universe. My journey encompasses a robust proficiency in JavaScript, coupled with an adept grasp of Node.js and its intricate framework landscape. I dance effortlessly with asynchronous programming's twists and turns, backed by a toolkit of ingenious workarounds.
 
-I specialize in building robust backends that do all the heavy lifting for your app or website. I love designing systems that are light yet powerful, distributed yet synchronized and beautiful yet effective. I also frequently blog about the world behind the screen which involves system designs, databases, security, servers, optimisation and also promising technologies like Blockchain and PWAs.  
+🎨 On the canvas of server-side templating languages, like EJS, I paint seamless digital experiences that capture the essence of user interaction. My front-end brushstrokes, dipped in the colors of HTML5 and CSS3, craft captivating visual narratives.
+
+🔐 User authentication and authorization are my forte, orchestrating harmonious connections between diverse systems, servers, and environments. With finesse, I interlace disparate data sources and databases into unified symphonies of information.
+
+🏗️ As a believer in solid architectural foundations, I lay down the bedrock of scalable applications, while my database schemas artfully mirror and enhance business processes.
+
+🧪 The scientific art of testing finds its form under my guidance, as I wield automated testing platforms and unit tests to craft a robust and resilient codebase.
+
+🌲 Version control is second nature to me, as I effortlessly navigate the woods of Git, ensuring code harmony and collaboration.
+
+Together, let's sculpt the digital realm with innovation, efficiency, and precision. Ready to embark on a transformative coding odyssey? Let's bring your vision to life!  
   
 
 <br/>  
