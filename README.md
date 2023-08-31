@@ -127,6 +127,3 @@ Together, let's sculpt the digital realm with innovation, efficiency, and precis
 
 
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
